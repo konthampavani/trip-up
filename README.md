@@ -1,3 +1,9 @@
+ A simple frontend website which helps
+user to plan a trip.
+It helps user to book flight tickets, hotel
+rooms, shows weather forecast of that
+place on beforehand. Also suggests
+some destinations to go on a trip.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
